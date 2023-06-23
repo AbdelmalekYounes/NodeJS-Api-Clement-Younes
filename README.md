@@ -37,7 +37,7 @@ Testez l'API avec POSTMAN
 - `DELETE /api/genre/{id}` : Supprime un genre spécifique (si non utilisé dans un ou plusieurs films).
 
 ## By
-
+ABDELMALEK Younes
 DEGAT Clément
   
 
