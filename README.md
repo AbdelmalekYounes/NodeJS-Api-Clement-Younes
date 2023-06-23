@@ -35,6 +35,10 @@ Testez l'API avec POSTMAN
 - `GET /api/genre` : Récupère la liste des genres.
 - `POST /api/genre` : Crée un nouveau genre avec les informations fournies dans le corps de la requête.
 - `DELETE /api/genre/{id}` : Supprime un genre spécifique (si non utilisé dans un ou plusieurs films).
+
+## By
+
+DEGAT Clément
   
 
 
